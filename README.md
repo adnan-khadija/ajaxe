@@ -41,7 +41,11 @@ Il permet de gérer les informations des machines et des marques associées.
 ### Le graphe 'Machine par marche':
 
 ![image](https://github.com/adnan-khadija/Ajax/assets/147508009/a0f7a818-3f41-430b-95ef-3f7e98ab5986)
+
 ![image](https://github.com/adnan-khadija/Ajax/assets/147508009/b28aa831-8823-4683-9be2-a9453ee87b9b)
+
+### Base de donné 
+![image](https://github.com/adnan-khadija/ajaxe/assets/147508009/b4b425c0-8243-4082-bec7-3bed651cec1b)
 
 
 
