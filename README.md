@@ -20,7 +20,7 @@ Il permet de gérer les informations des machines et des marques associées.
 - Gestion des marques de machines.
 - Affichage d'un graphique montrant le nombre de machines par marque.
 - Interface utilisateur conviviale pour la gestion des données.
-- Stockage des informations dans une base de données relationnelle.
+- Stockage des informations dans une base de données .
   ## Capture d'Écran
   ### L'interface utilisateur:
   
