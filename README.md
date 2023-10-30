@@ -1,6 +1,6 @@
 # Système de Gestion de Machines
 
-Ce projet est un système de gestion de machines basé sur les technologies Java, Servlets, JSP, et une base de données SQL.
+Ce projet est un système de gestion de machines basé sur les technologies Java, Servlets, JSP, et une base de données MySQL.
 Il permet de gérer les informations des machines et des marques associées.
 
 ## Technologies Utilisées
